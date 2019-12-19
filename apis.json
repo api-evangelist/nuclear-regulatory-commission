@@ -1,0 +1,46 @@
+{
+    "name": "Nuclear Regulatory Commission",
+    "description": "<p>The Nuclear Regulatory Commission (NRC) is an independent agency of the United States government, established by the Energy Reorganization Act of 1974, and began operations on January 19, 1975. As one of two successor agencies to the United States Atomic Energy Commission, the NRC's role is to protect public health and safety related to nuclear energy. It oversees reactor safety and security, reactor licensing and renewal, licensing of radioactive materials, radionuclide safety, and spent fuel management including storage, security, recycling, and disposal.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-NuclearRegulatoryCommission-Seal.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nuclear-regulatory-commission\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nuclear Regulatory Commission",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-NuclearRegulatoryCommission-Seal.png",
+            "humanURL": "http:\/\/www.nrc.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nuclear-regulatory-commission-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.nrc.gov\/developer.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nrc.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Nuclear_Regulatory_Commission"
+        }
+    ]
+}
